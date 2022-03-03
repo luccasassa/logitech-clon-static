@@ -1,1 +1,0 @@
-# logitech-clon-static
